@@ -2,7 +2,7 @@
 - 👀 I’m interested in badmiton, coding and tech
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me reyanshsapra2012@gmail.com
+- 📫 How to reach me reyansh.sapra@icloud.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im da best
 

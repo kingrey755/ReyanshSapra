@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ReyanshSapra
-- 👀 I’m interested in badmiton, coding and tech
+- 👀 I’m interested in badminton, cricket, coding and tech
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me reyansh.sapra@icloud.com

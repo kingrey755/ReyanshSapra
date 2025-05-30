@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReyanshSapra
 - 👀 I’m interested in badminton, cricket, coding and tech
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning AI and ML in Python but learning beyond that!
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me reyansh.sapra@icloud.com
 - 😄 Pronouns: he/him

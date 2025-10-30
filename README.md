@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReyanshSapra
+- 👋 Hi, I’m @kingrey755 but my real name is Reyansh
 - 👀 I’m interested in badminton, cricket, coding and tech
 - 🌱 I’m currently learning AI and ML in Python but learning beyond that!
 - 💞️ I’m looking to collaborate on stuff

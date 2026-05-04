@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<!-- HACKER TERMINAL INTRO SCREEN -->
-
 ```text
 ╔════════════════════════════════════════════╗
 ║        INITIALIZING REYANSH SYSTEM...      ║
@@ -12,7 +10,6 @@
 ║   STATUS: ACTIVE                           ║
 ║   MODE: BUILDING / LEARNING / EXPANDING    ║
 ║   DOMAIN: AI • FLASK • OPENCV • WEB        ║
-║                                            ║
 ╚════════════════════════════════════════════╝
 ```
 
@@ -22,7 +19,10 @@
 
 ---
 
-# 👤 ABOUT ME
+# 👤 ABOUT ME (NEON CORE NODE)
+
+<table border="2" width="100%">
+<tr><td>
 
 👋 Hello! I’m **@kingrey755**, but my real name is **Reyansh**
 👀 I’m interested in **badminton, cricket, coding, and tech**
@@ -30,6 +30,9 @@
 ⚡ I build systems that connect **phone ↔ laptop ↔ web ↔ camera**
 📫 Reach me: **[reyanshsapra2012@gmail.com](mailto:reyanshsapra2012@gmail.com)**
 😄 Pronouns: he/him
+
+</td></tr>
+</table>
 
 ---
 
@@ -65,7 +68,10 @@
 
 ---
 
-# 🧠 WHAT I DO
+# 🧠 WHAT I DO (SYSTEM MODULES)
+
+<table border="2" width="100%">
+<tr><td>
 
 ## 📷 Computer Vision (OpenCV)
 
@@ -73,11 +79,27 @@
 * camera-based scanning systems
 * image processing pipelines
 
+</td></tr>
+</table>
+
+<br>
+
+<table border="2" width="100%">
+<tr><td>
+
 ## 🌐 Flask + Web Systems
 
 * live dashboards
 * phone-to-laptop communication apps
 * real-time data streaming systems
+
+</td></tr>
+</table>
+
+<br>
+
+<table border="2" width="100%">
+<tr><td>
 
 ## 🤖 Python Automation
 
@@ -85,11 +107,27 @@
 * system control scripts
 * workflow automation tools
 
+</td></tr>
+</table>
+
+<br>
+
+<table border="2" width="100%">
+<tr><td>
+
 ## 📱 Device Integration
 
 * Samsung S9 ↔ laptop systems
 * remote camera nodes
 * LAN-based data transfer apps
+
+</td></tr>
+</table>
+
+<br>
+
+<table border="2" width="100%">
+<tr><td>
 
 ## 🧪 AI / ML Journey
 
@@ -97,18 +135,21 @@
 * experimenting with models
 * building intelligent tools
 
+</td></tr>
+</table>
+
 ---
 
 # 🧩 PROJECT SHOWCASE (CLICKABLE TILES)
 
 <div align="center">
 
-| Project                  | Description                        |
-| ------------------------ | ---------------------------------- |
-| 🔴 [Remote CCTV](#)      | Phone-to-laptop live camera system |
-| 🧠 [AI Experiments](#)   | ML learning + prototypes           |
-| 📷 [OpenCV Tools](#)     | Vision-based utilities             |
-| 🌐 [Flask Dashboards](#) | Real-time web control panels       |
+| Project             | Description                        |
+| ------------------- | ---------------------------------- |
+| 🔴 Remote CCTV      | Phone-to-laptop live camera system |
+| 🧠 AI Experiments   | ML learning + prototypes           |
+| 📷 OpenCV Tools     | Vision-based utilities             |
+| 🌐 Flask Dashboards | Real-time web control panels       |
 
 </div>
 
@@ -130,10 +171,16 @@
 
 # 🚀 CURRENT FOCUS
 
+<table border="2" width="100%">
+<tr><td>
+
 * Building real-time Python systems
 * Learning AI/ML deeply
 * Connecting devices into smart workflows
 * Experimenting with automation + vision systems
+
+</td></tr>
+</table>
 
 ---
 
@@ -149,7 +196,13 @@ STATUS: EXPANDING REAL-WORLD TECH STACK
 
 # ⚠️ FUN FACT
 
+<table border="2" width="100%">
+<tr><td>
+
 I don’t just build projects — I build **systems that interact with reality**.
+
+</td></tr>
+</table>
 
 ---
 

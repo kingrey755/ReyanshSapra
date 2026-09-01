@@ -1,4 +1,4 @@
-# ⚡🌈 REYANSH aka **kingrey755** 🌈⚡
+# ⚡REYANSH aka **kingrey755** ⚡
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 # 👤 ABOUT ME
 
-👋 Hello! I’m **@kingrey755**, but my real name is **Reyansh**
+👋 Hello! I’m **@kingrey755**, but my real name is **Reyansh**. I am **13** Years old
 👀 I’m interested in **badminton, cricket, coding, and tech**
 🌱 Currently learning **AI, ML, and real-world Python systems**
 ⚡ I build systems that connect **phone ↔ laptop ↔ web ↔ camera**
@@ -65,41 +65,9 @@
 
 ---
 
-# 🧠 WHAT I DO
-
-## 📷 Computer Vision (OpenCV)
-
-* motion detection experiments
-* camera-based scanning systems
-* image processing pipelines
-
-## 🌐 Flask + Web Systems
-
-* live dashboards
-* phone-to-laptop communication apps
-* real-time data streaming systems
-
-## 🤖 Python Automation
-
-* browser automation experiments
-* system control scripts
-* workflow automation tools
-
-## 📱 Device Integration
-
-* Samsung S9 ↔ laptop systems
-* remote camera nodes
-* LAN-based data transfer apps
-
-## 🧪 AI / ML Journey
-
-* learning fundamentals
-* experimenting with models
-* building intelligent tools
 
 ---
 
-# 🧩 PROJECT SHOWCASE 
 
 <div align="center">
 
@@ -113,8 +81,6 @@
 </div>
 
 ---
-
-# 🌈 NEON PROFILE BADGE WALL
 
 <div align="center">
 
@@ -137,8 +103,6 @@
 
 ---
 
-# ⚡ CYBER MODE STATUS
-
 ```text
 SYSTEM: REYANSH CORE ONLINE
 MODE: LEARNING + BUILDING + EXPERIMENTING
@@ -146,10 +110,6 @@ STATUS: EXPANDING REAL-WORLD TECH STACK
 ```
 
 ---
-
-# ⚠️ FUN FACT
-
-I don’t just build projects — I build **systems that interact with reality**.
 
 ---
 

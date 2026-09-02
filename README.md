@@ -1,20 +1,6 @@
-# ⚡REYANSH aka **kingrey755** ⚡
+# ⚡REYANSH⚡
 
 <div align="center">
-
-<!-- HACKER TERMINAL INTRO SCREEN -->
-
-```text
-╔════════════════════════════════════════════╗
-║        INITIALIZING REYANSH SYSTEM...      ║
-║                                            ║
-║   USER: kingrey755                         ║
-║   STATUS: ACTIVE                           ║
-║   MODE: BUILDING / LEARNING / EXPANDING    ║
-║   DOMAIN: AI • FLASK • OPENCV • WEB        ║
-║                                            ║
-╚════════════════════════════════════════════╝
-```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+I'm+Reyansh+%F0%9F%91%8B;Python+Builder+%7C+AI+Explorer;Flask+%7C+OpenCV+%7C+Automation;Turning+code+into+real-world+systems" />
 
@@ -27,13 +13,11 @@
 👋 Hello! I’m **@kingrey755**, but my real name is **Reyansh**. I am **13** Years old
 👀 I’m interested in **badminton, cricket, coding, and tech**
 🌱 Currently learning **AI, ML, and real-world Python systems**
-⚡ I build systems that connect **phone ↔ laptop ↔ web ↔ camera**
+⚡ I build systems that incorporate AI and Neural Networks into their system!!! 
 📫 Reach me: **[reyanshsapra2012@gmail.com](mailto:reyanshsapra2012@gmail.com)**
 😄 Pronouns: he/him
 
 ---
-
-# ⚡ LIVE GITHUB STATS
 
 <div align="center">
 
@@ -45,8 +29,6 @@
 
 ---
 
-# 📊 ACTIVITY GRAPH
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingrey755&theme=react-dark" />
@@ -54,8 +36,6 @@
 </div>
 
 ---
-
-# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -65,22 +45,6 @@
 
 ---
 
-
----
-
-
-<div align="center">
-
-| Project                  | Description                        |
-| ------------------------ | ---------------------------------- |
-| 🔴 [Remote CCTV](#)      | Phone-to-laptop live camera system |
-| 🧠 [AI Experiments](#)   | ML learning + prototypes           |
-| 📷 [OpenCV Tools](#)     | Vision-based utilities             |
-| 🌐 [Flask Dashboards](#) | Real-time web control panels       |
-
-</div>
-
----
 
 <div align="center">
 
